@@ -40,5 +40,7 @@ Also you can click the employee tab and you can perform the following functions:
   
   This is the structure of the app:
   
-    ![Screenshot](proj.jpg)
+![schema](proj.jpg)
+
+
 
